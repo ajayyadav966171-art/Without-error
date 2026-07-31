@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Music Player",
+  "description": "Native Android mobile music app with Spotify-inspired UI, Material 3 bottom navigation, persistent mini-player, full-screen player with lyrics and Web Audio playback, playlists, search, and gestures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
